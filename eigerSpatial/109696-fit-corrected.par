@@ -6,7 +6,7 @@ cell_beta 90.0
 cell_gamma 90.0
 cell_lattice_[P,A,B,C,I,F,R] F
 chi 0.0
-distance 512389.86720704066
+distance 512528.63318869454
 fit_tolerance 0.05
 min_bin_prob 1e-05
 no_bins 10000
@@ -19,12 +19,12 @@ t_x 0
 t_y 0
 t_z 0
 tilt_x 0.0
-tilt_y 2.8876081769129634e-05
-tilt_z 0.00018905173240439042
+tilt_y -0.00021506727974260505
+tilt_z 0.0011925464328797792
 wavelength 0.1763
 wedge 0.0
 weight_hist_intensities 0
-y_center 1447.1233290238335
+y_center 1447.426747641635
 y_size 172
-z_center 662.490931763511
+z_center 662.2773692601055
 z_size 172
